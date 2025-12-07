@@ -1,5 +1,5 @@
 # Boostium
-Bir çok satış yaptığım aylık $1000 kadar ciro yapmanızı sağlayacak sistem.
+Bir çok satış yaptığım aylık $200 kadar ciro yapmanızı sağlayacak sistem.
 
 Detayları için discord üzerinden iletişime geçebilirsiniz.
 
